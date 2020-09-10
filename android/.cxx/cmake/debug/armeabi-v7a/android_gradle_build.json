@@ -1,0 +1,38 @@
+
+{
+	"buildFiles" : [ "F:/SPECTRUM/flutter_cpp_playground/android/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\fhb36\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\SPECTRUM\\flutter_cpp_playground\\android\\.cxx\\cmake\\debug\\armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"name-generator-plugin-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "name-generator-plugin",
+			"buildCommand" : "C:\\Users\\fhb36\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\SPECTRUM\\flutter_cpp_playground\\android\\.cxx\\cmake\\debug\\armeabi-v7a --target name-generator-plugin",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/fhb36/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/fhb36/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dname_generator_plugin_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "F:/SPECTRUM/flutter_cpp_playground/ios/Classes/name-generator-plugin.cpp",
+					"workingDirectory" : "F:/SPECTRUM/flutter_cpp_playground/android/.cxx/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "F:/SPECTRUM/flutter_cpp_playground/example/build/flutter_cpp_playground/intermediates/cmake/debug/obj/armeabi-v7a/libname-generator-plugin.so",
+			"toolchain" : "4168139689"
+		}
+	},
+	"toolchains" : 
+	{
+		"4168139689" : 
+		{
+			"cCompilerExecutable" : "C:/Users/fhb36/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/fhb36/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

@@ -1,0 +1,3 @@
+F:/SPECTRUM/flutter_cpp_playground/android/.cxx/cmake/debug/x86_64/CMakeFiles/name-generator-plugin.dir
+F:/SPECTRUM/flutter_cpp_playground/android/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+F:/SPECTRUM/flutter_cpp_playground/android/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir

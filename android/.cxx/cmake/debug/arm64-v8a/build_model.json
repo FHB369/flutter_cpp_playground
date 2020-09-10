@@ -1,0 +1,70 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "F:\\SPECTRUM\\flutter_cpp_playground\\example\\android",
+      "sdkFolder": "C:\\Users\\fhb36\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "F:\\SPECTRUM\\flutter_cpp_playground\\example\\build\\flutter_cpp_playground\\intermediates",
+      "gradleModulePathName": ":flutter_cpp_playground",
+      "moduleRootFolder": "F:\\SPECTRUM\\flutter_cpp_playground\\android",
+      "makeFile": "F:\\SPECTRUM\\flutter_cpp_playground\\android\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "F:\\SPECTRUM\\flutter_cpp_playground\\example\\android\\.cxx",
+      "cxxFolder": "F:\\SPECTRUM\\flutter_cpp_playground\\android\\.cxx",
+      "ndkFolder": "C:\\Users\\fhb36\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669",
+      "ndkVersion": "21.0.6113669",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "F:\\SPECTRUM\\flutter_cpp_playground\\example\\build\\flutter_cpp_playground\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "F:\\SPECTRUM\\flutter_cpp_playground\\example\\build\\flutter_cpp_playground\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "F:\\SPECTRUM\\flutter_cpp_playground\\android\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "F:\\SPECTRUM\\flutter_cpp_playground\\android\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "F:\\SPECTRUM\\flutter_cpp_playground\\android\\.cxx\\cmake\\debug\\arm64-v8a",
+  "jsonFile": "F:\\SPECTRUM\\flutter_cpp_playground\\android\\.cxx\\cmake\\debug\\arm64-v8a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "F:\\SPECTRUM\\flutter_cpp_playground\\android\\.cxx\\cxx\\debug\\arm64-v8a",
+  "objFolder": "F:\\SPECTRUM\\flutter_cpp_playground\\example\\build\\flutter_cpp_playground\\intermediates\\cmake\\debug\\obj\\arm64-v8a",
+  "buildCommandFile": "F:\\SPECTRUM\\flutter_cpp_playground\\android\\.cxx\\cmake\\debug\\arm64-v8a\\build_command.txt",
+  "buildOutputFile": "F:\\SPECTRUM\\flutter_cpp_playground\\android\\.cxx\\cmake\\debug\\arm64-v8a\\build_output.txt",
+  "modelOutputFile": "F:\\SPECTRUM\\flutter_cpp_playground\\android\\.cxx\\cmake\\debug\\arm64-v8a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "F:\\SPECTRUM\\flutter_cpp_playground\\android\\.cxx\\cxx\\debug\\arm64-v8a\\CMakeLists.txt",
+    "toolchainWrapperFile": "F:\\SPECTRUM\\flutter_cpp_playground\\android\\.cxx\\cxx\\debug\\arm64-v8a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "F:\\SPECTRUM\\flutter_cpp_playground\\android\\.cxx\\cxx\\debug\\arm64-v8a\\build_generation_state.json",
+    "cacheKeyFile": "F:\\SPECTRUM\\flutter_cpp_playground\\android\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "F:\\SPECTRUM\\flutter_cpp_playground\\android\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "F:\\SPECTRUM\\flutter_cpp_playground\\android\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "F:\\SPECTRUM\\flutter_cpp_playground\\android\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "F:\\SPECTRUM\\flutter_cpp_playground\\android\\.cxx\\cmake\\debug\\arm64-v8a\\json_generation_record.json",
+  "compileCommandsJsonFile": "F:\\SPECTRUM\\flutter_cpp_playground\\android\\.cxx\\cmake\\debug\\arm64-v8a\\compile_commands.json"
+}
